@@ -1,2 +1,2 @@
 # react-advanced-project-starter
-WINC Event-App!
+WINC Event App!
